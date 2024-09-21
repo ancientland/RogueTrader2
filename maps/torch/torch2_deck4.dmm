@@ -6792,7 +6792,8 @@
 	dir = 1
 	},
 /obj/machinery/requests_console{
-	department = "Security"departmentType=5;
+	department = "Security";
+	departmentType=5;
 	pixel_y = 30
 	},
 /obj/structure/disposalpipe/segment/bent,
